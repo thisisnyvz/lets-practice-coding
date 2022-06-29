@@ -9,3 +9,10 @@ My answer for the missing code is: <strong>console.log("Bond, James bond");</str
 If my answer is incorrect, I would love to know the correct code.
 
 Looking forward for another <em><strong>fun</strong></em> and <em><strong>exciting</strong></em> session with you. :smile:
+
+
+
+# Let's get this started!
+
+***Let me try this one***
+
